@@ -680,9 +680,9 @@
 
 		padding-right: 10px;
 
-		padding-left: 10px;
+		padding-left: 15px;
 
-		font-size: 150%;
+		font-size: 120%;
 
 	}
 
@@ -1264,9 +1264,12 @@
 
 		color: #222;
 
+
 	}
 
-
+	.blog-post-title h2 {
+			padding-bottom: 3rem;
+	}
 
 	.blog-post-title a:hover {
 
