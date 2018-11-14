@@ -1316,6 +1316,12 @@
 	}
 
 
+	.blog-post-des,
+	.content-body {
+margin: 0 auto;
+width: auto;
+max-width: 640px;
+	}
 
 	.blog-post-des blockquote {
 
