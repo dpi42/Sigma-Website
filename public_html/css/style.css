@@ -3618,7 +3618,7 @@
 
 .card__image--beta {
 
-  background-image: url(../images/beta.png);
+  background-image: url(../images/guilds-beta.jpg);
 
 }
 
@@ -3631,6 +3631,11 @@
 .card__image--tau {
 
   background-image: url(../images/tau.png);
+
+}
+.card__image--guildstau {
+
+  background-image: url(../images/guilds-tau.jpg);
 
 }
 
